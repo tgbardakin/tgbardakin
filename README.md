@@ -5,6 +5,6 @@
 - 🔅 I have experiences on HTML, CSS, React, JavaScript, Git, GitHub, Agile approach and associate degree in web design and coding
 - 🔅 I like to collaborate on exciting projects and connect with other developers.
 - 🔅 You can reach me from any of my social media accounts on my profile.
-- 🔅 yes i am a piano student 
+- 🔅 yes i am a piano learner 
 
 
